@@ -1,0 +1,17 @@
+<?php 
+
+
+//Dados do banco de dados
+
+define("DB_HOST", "localhost");
+define("DB_NAME", "vendas");
+define("DB_USER", "root");
+define("DB_PASS", "34125580");
+
+//Conexao com Banco de Dados
+
+return new PDO(sprintf("mysql:host=%s;dbname=%s", DB_HOST, DB_NAME), DB_USER, DB_PASS);
+
+
+
+?>
