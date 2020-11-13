@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+
+<ide>
+<TESTE1>
+<id>5</id>
+</TESTE1>
+<TESTE2>
+<nome>LEITE</nome>
+</TESTE2>
+<TESTE3>
+<referencia>000006</referencia>
+</TESTE3>
+<TESTE4>
+<preco>3.50</preco>
+</TESTE4>
+<TESTE5>
+<nomeFor>SUPERMERCADOS MIX</nomeFor>
+</TESTE5>
+</ide>
