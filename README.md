@@ -14,5 +14,4 @@ coloquei o campo de busca de cep comunicando com o webservices da viacep conform
 4 - AO FINALIZAR A VENDA A PAGINA FICARA EM BRANCO MAIS SERÁ GRAVADO NO BANCO.
 
 
-Oberservações todas as funcionalidades estão ok, na criação do banco de dados produto foi observada as regras solicitadas para não gravar o mesmo produto com a mesma referencia, cada produto pode ter mais de um fornecedor, para adicionar mais produtos basta copiar o arquivo xml e modificar as informações e executar a pagina ler_produtos.php ela criara o novo produto no banco mais não duplicará,
-Peço que avaliem todo meu esforço pois tenho muito potencial e vontade de aprender ainda mais apesar de ter deixado de fazer algumas funções por questão de tempo, procurei focar nos pontos mais importantes e realizar todos eu amo programar e espero ter a oportunidade de aprender ainda mais e dar o meu melhor.
+Oberservações todas as funcionalidades estão ok, na criação do banco de dados produto foi observada as regras solicitadas para não gravar o mesmo produto com a mesma referencia, cada produto pode ter mais de um fornecedor, para adicionar mais produtos basta copiar o arquivo xml e modificar as informações e executar a pagina ler_produtos.php ela criara o novo produto no banco mais não duplicará.
